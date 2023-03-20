@@ -21,3 +21,10 @@
 -git status
     -if any changes in file,it will show
 
+-git add
+    -file come from staging area
+
+-git status
+
+-git commit -m "initial commit"
+    -readme file will be commit
